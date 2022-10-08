@@ -1,0 +1,5 @@
+name: "Fetch Covid APIs"
+stepId: step2
+stepBreakDown:
+  - text: "Find out public APIs to be used"
+  - text: "Create functions fetching data from these REST API endpoints"

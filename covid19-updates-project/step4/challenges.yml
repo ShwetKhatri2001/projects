@@ -1,0 +1,6 @@
+name: "Create informative sections about Covid19"
+stepId: step4
+stepBreakDown:
+  - text: "Create a 'About Covid19' section"
+  - text: "Create a 'Coronavirus Symptoms' section"
+  - text: "Create a '6 Steps For Prevention Against Corona Virus' section"

@@ -1,0 +1,5 @@
+name: "Show fetched and filtered data in Table"
+stepId: step3
+stepBreakDown:
+  - text: "Create tables that can map the data attributes"
+  - text: "Create the search functionality and then show the filtered the data"

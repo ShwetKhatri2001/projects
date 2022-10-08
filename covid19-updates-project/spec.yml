@@ -1,0 +1,42 @@
+name: Covid19 Updates Project - GoCoronaGo
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/ShwetKhatri2001/codedamn-html-playground-starter
+type: frontend
+level: easy
+cover-image: https://user-images.githubusercontent.com/56475750/194692815-22aaf7ba-7744-4418-8833-041b6a50f98e.png
+short-description: It's an website which gives you Live Covid-19 Updates with well Designed user-interface in all Devices.
+This will test your HTML, CSS and JavaScript skills.
+long-description: |
+  Your challenge is to build out this frontend page and get it looking as close to the design as possible.
+  Also, it should work fine with REST API integration.
+
+  This project focuses mostly on HTML, JS, CSS and Bootstrap.
+  JS is used to integrate REST APIs and handle contaact form.
+  Bottstrap can be used to make responsive layouts, its your choise.
+
+  You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  Your users should be able to:
+
+  - Get the specific API data listed when required such as Covid-19 cases worldwide, countrywise, statewise, districtwise, daywise etc.
+
+  - View other sections of the website such as "About Cpvid-19", "Coronavirus Symptoms", 
+    "6 Steps For Prevention Against Corona Virus" and "Contact Us ASAP".
+
+  - View the optimal layout for the site depending on their device's screen size
+
+  - See hover states and click events for all interactive elements on the page
+
+  - Download the starter code and go through the README.md file.
+
+  The `README.md` file will provide further details about the project. The `style-guide.html` file is where you'll find colors, fonts, etc.
+
+  Don't forget to share your submissions with the community to get feedback. All the best.
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html
+  guided: true

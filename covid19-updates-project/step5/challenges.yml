@@ -1,0 +1,6 @@
+name: "Finalize the contact"
+stepId: step5
+stepBreakDown:
+  - text: "Create a form to get 'Contact Us' data"
+  - text: "Add validations to the form"
+  - text: "Show better UI to show validations and submition"

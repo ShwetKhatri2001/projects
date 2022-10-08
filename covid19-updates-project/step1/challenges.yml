@@ -1,0 +1,5 @@
+name: "Build Navbar and Banner"
+stepId: step1
+stepBreakDown:
+  - text: "Create a responsive banner having title and all quick links to different sections of the website"
+  - text: "Create a flexed section below having a animating image on left and encouraging text"
